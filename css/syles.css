@@ -1,0 +1,46 @@
+.navbar-expand-lg.navbar-dark.fixed-top.bg-dark {
+    background-color: rgb(75, 73, 73) !important;
+}
+
+.navbar img {
+    width: 120px;
+    height: 65px;
+    margin-right: 0.1rem;
+}
+
+.navbar-brand-h1 {
+    color: white;
+    font-size: 1.3rem;
+    font-style: unset;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.titulo h4 {
+    font-size: 0.8rem;
+}
+
+.titulo h5 {
+    font-size: 0.8rem;
+}
+
+.container-formulario {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-formulario .btn-primary {
+    background-color: rgb(165, 219, 74);
+    border-color: rgb(165, 219, 74);
+}
+
+.navbar-dark.bg-primary {
+    background-color: rgb(16, 89, 96) !important;
+    justify-content: center;
+}
