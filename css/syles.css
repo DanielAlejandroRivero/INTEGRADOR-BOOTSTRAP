@@ -1,11 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .navbar-expand-lg.navbar-dark.fixed-top.bg-dark {
     background-color: rgb(75, 73, 73) !important;
+
 }
 
 .navbar img {
     width: 120px;
     height: 65px;
-    margin-right: 0.1rem;
 }
 
 .navbar-brand-h1 {
@@ -14,6 +19,7 @@
     font-style: unset;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 
 .titulo {
     text-align: center;
